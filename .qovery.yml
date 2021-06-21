@@ -1,0 +1,11 @@
+---
+application:
+  name: "vuejs-uploader"
+  project: "era-video"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-vuejs-uploader"
+  routes:
+  - application_name: "vuejs-uploader"
+    paths:
+    - "/*"
